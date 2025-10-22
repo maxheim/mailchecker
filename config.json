@@ -1,0 +1,10 @@
+{
+  "folders": [
+    "C:\\Logs\\Production\\Server1",
+    "C:\\Logs\\Production\\Server2",
+    "\\\\FILESERVER01\\SharedLogs\\Application",
+    "\\\\FILESERVER02\\Logs\\WebApp",
+    "\\\\192.168.1.100\\LogShare\\2FA",
+    "D:\\LocalLogs\\Backup"
+  ]
+}
