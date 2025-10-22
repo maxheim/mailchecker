@@ -1,4 +1,4 @@
-# 2FA Log Analyzer
+# 2FA Log Analyzer - Throw away script by claude code
 
 A Go-based command-line tool for analyzing 2FA authentication logs across multiple folders, including network locations. This tool efficiently processes log files to count "2FA - Email" entries, groups them by date, and calculates daily averages.
 
